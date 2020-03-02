@@ -8,6 +8,6 @@
 
     <context:component-scan base-package="UserManager.**.service"/>
 
-    <context:component-scan base-package="UserManager.**.web"/>
+    <context:component-scan base-package="UserManager.**.controller"/>
 
 </beans>
