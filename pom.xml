@@ -21,7 +21,7 @@
         <slf4j.version>1.7.25</slf4j.version>
 
         <spring.version>5.2.4.RELEASE</spring.version>
-        <spring-data-jpa.version>2.0.5.RELEASE</spring-data-jpa.version>
+        <spring-data-jpa.version>2.1.0.RELEASE</spring-data-jpa.version>
 
         <postgresql.version>9.1-901-1.jdbc4</postgresql.version>
 
